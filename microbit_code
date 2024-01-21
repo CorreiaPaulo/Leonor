@@ -1,0 +1,34 @@
+--
+
+def  on_forever():
+	basic.show_icon(IconNames.HEART)
+	basic.pause(100)
+	basic.show_string("LEONOR")
+	basic.show_icon(IconNames.HEART)
+	basic.pause(100)
+
+basic.forever(on_forever)
+
+---
+
+
+
+def  on_forever():
+  basic.show_icon(IconNames.)
+  basic.clear_screen() 
+  basic.pause(400)
+
+basic.forever(on_forever)
+
+----
+
+
+def  on_forever():
+    basic.show_icon(IconNames.HEART)
+    basic.pause(100)
+    basic.show_string(" ")
+    basic.show_string("LEONOR")
+    basic.show_icon(IconNames.HEART)
+    basic.pause(100)
+
+basic.forever(on_forever)
